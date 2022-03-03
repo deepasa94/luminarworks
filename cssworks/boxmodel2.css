@@ -1,0 +1,20 @@
+.col{
+    height: 100px;
+    width: 200px;
+   
+    border: darkblue 2px solid;
+}
+.col-1{
+    background-color: blueviolet;
+    margin-top: 37px;
+}
+.col-2{
+    margin-left: 270px;
+    margin-top: -105px;
+    background-color: darkcyan;
+}
+.col-3{
+    margin-left: 530px;
+    margin-top: -105px;
+    background-color: dodgerblue;
+}

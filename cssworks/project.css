@@ -1,0 +1,131 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script&family=Lobster&family=Mochiy+Pop+P+One&family=Qwitcher+Grypen&display=swap');
+header{
+    background-color:#966B00;
+    height: 100px;
+}
+.header{
+    color: wheat;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    margin-top: -130px;
+    font-family: 'Courgette', cursive;
+}
+header i{
+    color: rgb(56, 35, 8);
+    padding: 10px;
+    margin-left: 289px;
+    margin-top: 10px;
+}
+.nav{
+    background-color: burlywood;
+    height: 30px;
+    text-align: end;
+    padding: 10px;
+   
+}
+.nav a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: rgb(75, 9, 9);
+    
+}
+.main{
+    height: 300px;
+    width: 100%;
+    background-color:rgb(61, 36, 9);
+    display: flex;
+    justify-content: space-evenly;
+}
+.main-about{
+    justify-content: left;
+    position: sticky;
+    
+}
+p{
+    height: 200px;
+    width: 350px;
+    margin-left: 100px;
+    border: peru 2px solid;
+    color: rgb(243, 231, 231);
+    padding: 30px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.main-img img{
+    height: 250px;
+    width: 450px;
+    margin: 28px;
+}
+.main-gallery{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(119, 74, 15);
+}
+.main-gallery img{
+    height: 160px;
+    width: 240px;
+    margin-top: 20px;
+}
+footer{
+    background-color: rgb(75, 26, 26);
+    height: 100px;
+}
+footer a{
+    padding: 30px;
+    text-decoration: none;
+    color: white;
+}
+.mail{
+    text-align: right;
+    padding-right: 20px;
+
+}
+.mail button{
+    background-color: #966B00;
+    border: none;
+    border-radius: 20px;
+    margin-right: 30px;
+    height: 25px;
+    width: 120px;
+}
+.main-gall{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(119, 74, 15);
+    /* margin-top: 10px; */
+}
+.main-gall img{
+    height: 160px;
+    width: 240px;
+    margin-top: 20px;
+    margin: 28px;
+
+}
+.ab{
+    height: 160px;
+    width: 650px;
+    padding: 20px;
+    padding-top: 40px;
+    font-size: 18px;
+    text-align:justify;
+
+}
+.main-ga{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(119, 74, 15);
+
+
+}
+.main-ga img{
+    height: 160px;
+    width: 240px;
+    margin-top: 20px;
+    margin: 28px;
+}
+.links{
+    /* margin-top: 10px; */
+    padding-top: 10px;
+}

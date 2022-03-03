@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script:wght@400;500;700&family=Lobster&family=Mochiy+Pop+P+One&family=Qwitcher+Grypen&display=swap');
+.abc{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(2, 43, 2);
+    display: flex;
+    
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    text-align: right;
+
+    
+}
+.hdel{
+    color: white;
+    text-align: right;
+    margin-right: 20px;
+    margin-top:30px;
+}
+.hdel p{
+    padding-left: 160px;
+    margin-left: 80px;
+    
+}
+
+
+.links{
+    text-align: right;
+    background-color: green;
+}
+.logo{
+    text-align: left;
+    margin-left: 20px;
+}
+.heading{
+    color: rgb(218, 94, 12);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-left: 25%;
+    text-align:center;
+    padding-left: 60px;
+}
+.heading span{
+    font-size: 20px;
+    color: white;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu h1{
+        color: red;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+        padding: 30px;
+    }
+.ab{
+        text-align: center;
+        margin-top: 30px;
+        
+    }
+.col{
+    border: none;
+}
+.card-body h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style:oblique;
+    background-color: chartreuse;
+    
+}
+.card-body p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.about{
+    display: flex;
+
+}
+.rowcl{
+    height: 120px;
+    background-color: rgb(63, 160, 63);
+    width: 100%;   
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}

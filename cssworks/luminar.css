@@ -1,0 +1,15 @@
+div :nth-child(1){
+color: blue;
+}
+div :nth-child(2){
+    color: brown;
+}
+div :nth-child(3){
+    color: darkgreen;
+}
+/* pseudo selectors */
+body{
+    background-image: url("./images/photo-1503023345310-bd7c1de61c7d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

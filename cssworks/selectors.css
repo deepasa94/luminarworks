@@ -1,0 +1,19 @@
+h1{
+    color: darkblue;
+    text-align: center;
+}
+#a{
+    color: darkgreen;
+    text-align: right;
+}
+.b{
+    color: darkmagenta;
+    text-align: left;
+}
+#d1{
+    background-color: rgb(153, 142, 138);
+}
+#d2{
+    background-color: rgb(202, 174, 117);
+    color: rgb(10, 75, 10);
+}

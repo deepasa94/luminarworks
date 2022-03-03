@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Qwitcher+Grypen&display=swap');
+div{
+    width: 24%;
+    height: 200px;
+    background-color: bisque;
+    border: black 1px solid;
+    float: left;
+}
+img{
+    width: 100%;
+    height: 50%;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-family: 'Qwitcher Grypen', cursive;
+}
